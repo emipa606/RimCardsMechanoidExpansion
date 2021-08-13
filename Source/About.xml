@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>RimCards - Mechanoid Expansion</name>
+  <author>Stokovski</author>
+  <packageId>stokovski.rimcardsmechanoid</packageId>
+  <supportedVersions>
+    <li>1.1</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>stokovski.rimcards</packageId>
+      <displayName>RimCards</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=1951086368</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <description>MORE RIMCARDS TO COLLECT !
+</description>
+</ModMetaData>

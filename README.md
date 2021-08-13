@@ -1,1 +1,87 @@
 # RimCardsMechanoidExpansion
+
+![Image](https://i.imgur.com/WAEzk68.png)
+
+Update of Stokovskis mod
+https://steamcommunity.com/sharedfiles/filedetails/?id=2036838446
+
+![Image](https://i.imgur.com/7Gzt3Rg.png)
+
+	
+![Image](https://i.imgur.com/NOW7jU1.png)
+
+# **NEW RIMCARDS TO COLLECT !**
+
+
+## **LEGENDARY**
+ 
+- **Centipede**
+
+
+
+## **EPIC**
+
+
+- **Auto Charge Blaster**
+- **Scyther**
+- **Weather Controller**
+
+
+
+## **RARE**
+
+
+- **Mech Assembler**
+- **Lancer**
+- **Psychic Ship**
+- **Auto Inferno Turret**
+- **Pikeman**
+
+
+
+## **COMMON**
+
+
+- **Countdown Activator**
+- **Mini Slugger Turret**
+- **Proximity Activator**
+- **Barricade**
+- **Mortar Shield**
+- **Bullet Shield**
+- **Mech Drop Beacon**
+- **Ship Part**
+- **Smoke Spewer**
+
+
+
+
+You can disenchant **RimCards** to get **RimCard Dust** using the **Disenchanting RimCard Table.** You can craft RimCards with mechanoid Corpses and other ingredients using the **Crafting Rimcard Table.** You can buy them from a dedicated **RimCards Trader**. All RimCards exist in a **Shiny Version** that cost more to buy from the RimCards Trader.
+
+Once you collected all the cards from the Mechanoid **Expansion**, you can build the **RimCard Trophy** for this extension. If you managed to collect all the shiny versions, you can build the **RimCard Shiny Trophy.**
+
+-------------------
+
+RimCards Mod needed : 
+https://steamcommunity.com/sharedfiles/filedetails/?id=1951086368
+
+-------------------
+
+Let me know if there&apos;s a problem, spelling errors, or if you would like to see more **RimCards** !
+I&apos;ll regularly check.
+
+**Hope you enjoy it.
+Stokovski.**
+
+![Image](https://i.imgur.com/Rs6T6cr.png)
+
+
+
+-  See if the the error persists if you just have this mod and its requirements active.
+-  If not, try adding your other mods until it happens again.
+-  Post your error-log using https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib and command Ctrl+F12
+-  For best support, please use the Discord-channel for error-reporting.
+-  Do not report errors by making a discussion-thread, I get no notification of that.
+-  If you have the solution for a problem, please post it to the GitHub repository.
+
+
+

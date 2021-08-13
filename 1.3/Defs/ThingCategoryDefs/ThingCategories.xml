@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- Categorization for RimCards -->
+  <ThingCategoryDef>
+    <defName>RimCardsMechSet</defName>
+    <label>Mechanoid Expansion</label>
+    <parent>RimCards</parent>
+  </ThingCategoryDef>
+  <ThingCategoryDef>
+    <defName>NormalRimCardsMech</defName>
+    <label>Normal RimCards</label>
+    <parent>RimCardsMechSet</parent>
+  </ThingCategoryDef>
+  <ThingCategoryDef>
+    <defName>CommonRMMech</defName>
+    <label>Common Rimcards</label>
+    <parent>NormalRimCardsMech</parent>
+  </ThingCategoryDef>
+  <ThingCategoryDef>
+    <defName>RareRMMech</defName>
+    <label>Rare Rimcards</label>
+    <parent>NormalRimCardsMech</parent>
+  </ThingCategoryDef>
+  <ThingCategoryDef>
+    <defName>EpicRMMech</defName>
+    <label>Epic Rimcards</label>
+    <parent>NormalRimCardsMech</parent>
+  </ThingCategoryDef>
+  <ThingCategoryDef>
+    <defName>LegendaryRMMech</defName>
+    <label>legendary Rimcards</label>
+    <parent>NormalRimCardsMech</parent>
+  </ThingCategoryDef>
+  <ThingCategoryDef>
+    <defName>ShinyRimCardsMech</defName>
+    <label>Shiny RimCards</label>
+    <parent>RimCardsMechSet</parent>
+  </ThingCategoryDef>
+  <ThingCategoryDef>
+    <defName>SCommonRMMech</defName>
+    <label>Shiny Common Rimcards</label>
+    <parent>ShinyRimCardsMech</parent>
+  </ThingCategoryDef>
+  <ThingCategoryDef>
+    <defName>SRareRMMech</defName>
+    <label>Shiny Rare Rimcards</label>
+    <parent>ShinyRimCardsMech</parent>
+  </ThingCategoryDef>
+  <ThingCategoryDef>
+    <defName>SEpicRMMech</defName>
+    <label>Shiny Epic Rimcards</label>
+    <parent>ShinyRimCardsMech</parent>
+  </ThingCategoryDef>
+  <ThingCategoryDef>
+    <defName>SLegendaryRMMech</defName>
+    <label>Shiny Legendary Rimcards</label>
+    <parent>ShinyRimCardsMech</parent>
+  </ThingCategoryDef>
+</Defs>

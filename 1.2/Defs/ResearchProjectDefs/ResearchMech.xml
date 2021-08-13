@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ResearchProjectDef>
+    <defName>RimCardsMech</defName>
+    <label>Mechanoid Expansion</label>
+    <description>Allows you to craft and disenchant Rimcards from the Mechanoid Expansion.</description>
+    <baseCost>800</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>RimCards</tab>
+    <tags>
+    </tags>
+    <prerequisites>
+      <li>RimCardsDisenchanting</li>
+      <li>RimCardsCrafting</li>
+    </prerequisites>
+    <researchViewX>5</researchViewX>
+    <researchViewY>1</researchViewY>
+  </ResearchProjectDef>
+</Defs>

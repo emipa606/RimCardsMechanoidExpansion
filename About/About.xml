@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>RimCards - Mechanoid Expansion (Continued)</name>
+  <packageId>Mlie.RimCardsMechanoidExpansion</packageId>
+  <author>Stokovski</author>
+  <url>https://github.com/emipa606/RimCardsMechanoidExpansion</url>
+  <supportedVersions>
+    <li>1.1</li>
+    <li>1.2</li>
+    <li>1.3</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>Mlie.RimCards</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2574106661</steamWorkshopUrl>
+      <downloadUrl>https://github.com/emipa606/RimCards/releases/latest</downloadUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>Mlie.RimCards</li>
+  </loadAfter>
+  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+Update of Stokovskis mod
+https://steamcommunity.com/sharedfiles/filedetails/?id=2036838446
+
+[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+
+[table]
+    [tr]
+        [td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+        [td][url=https://github.com/emipa606/RimCardsMechanoidExpansion][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+    [/tr]
+[/table]
+	
+[img]https://i.imgur.com/NOW7jU1.png[/img]
+[h1][b]NEW RIMCARDS TO COLLECT ![/b][/h1]
+
+[h2][b]LEGENDARY[/b][/h2] [list][*][b]Centipede[/b]
+[/list]
+
+[h2][b]EPIC[/b][/h2]
+[list][*][b]Auto Charge Blaster[/b]
+[*][b]Scyther[/b]
+[*][b]Weather Controller[/b]
+[/list]
+
+[h2][b]RARE[/b][/h2]
+[list][*][b]Mech Assembler[/b]
+[*][b]Lancer[/b]
+[*][b]Psychic Ship[/b]
+[*][b]Auto Inferno Turret[/b]
+[*][b]Pikeman[/b]
+[/list]
+
+[h2][b]COMMON[/b][/h2]
+[list][*][b]Countdown Activator[/b]
+[*][b]Mini Slugger Turret[/b]
+[*][b]Proximity Activator[/b]
+[*][b]Barricade[/b]
+[*][b]Mortar Shield[/b]
+[*][b]Bullet Shield[/b]
+[*][b]Mech Drop Beacon[/b]
+[*][b]Ship Part[/b]
+[*][b]Smoke Spewer[/b]
+[/list]
+
+
+You can disenchant [b]RimCards[/b] to get [b]RimCard Dust[/b] using the [b]Disenchanting RimCard Table.[/b] You can craft RimCards with mechanoid Corpses and other ingredients using the [b]Crafting Rimcard Table.[/b] You can buy them from a dedicated [b]RimCards Trader[/b]. All RimCards exist in a [b]Shiny Version[/b] that cost more to buy from the RimCards Trader.
+
+Once you collected all the cards from the Mechanoid [b]Expansion[/b], you can build the [b]RimCard Trophy[/b] for this extension. If you managed to collect all the shiny versions, you can build the [b]RimCard Shiny Trophy.[/b]
+
+-------------------
+
+RimCards Mod needed : 
+https://steamcommunity.com/sharedfiles/filedetails/?id=1951086368
+
+-------------------
+
+Let me know if there&apos;s a problem, spelling errors, or if you would like to see more [b]RimCards[/b] !
+I&apos;ll regularly check.
+
+[b]Hope you enjoy it.
+Stokovski.[/b]
+
+[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[list]
+[*] See if the the error persists if you just have this mod and its requirements active.
+[*] If not, try adding your other mods until it happens again.
+[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] and command Ctrl+F12
+[*] For best support, please use the Discord-channel for error-reporting.
+[*] Do not report errors by making a discussion-thread, I get no notification of that.
+[*] If you have the solution for a problem, please post it to the GitHub repository.
+[/list]
+</description>
+</ModMetaData>
+
