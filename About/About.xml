@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>RimCards - Mechanoid Expansion (Continued)</name>
   <packageId>Mlie.RimCardsMechanoidExpansion</packageId>
@@ -20,20 +20,24 @@
   <loadAfter>
     <li>Mlie.RimCards</li>
   </loadAfter>
-  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
 Update of Stokovskis mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=2036838446
 
-[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+[img]https://i.imgur.com/pufA0kM.png[/img]
 
 [table]
     [tr]
         [td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
         [td][url=https://github.com/emipa606/RimCardsMechanoidExpansion][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
     [/tr]
+    [tr]
+        [td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
+        [td][img]https://i.imgur.com/Be8E2qJ.png[/img][/td]
+    [/tr]
 [/table]
 	
-[img]https://i.imgur.com/NOW7jU1.png[/img]
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
 [h1][b]NEW RIMCARDS TO COLLECT ![/b][/h1]
 
 [h2][b]LEGENDARY[/b][/h2] [list][*][b]Centipede[/b]
@@ -77,13 +81,13 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1951086368
 
 -------------------
 
-Let me know if there&apos;s a problem, spelling errors, or if you would like to see more [b]RimCards[/b] !
-I&apos;ll regularly check.
+Let me know if there's a problem, spelling errors, or if you would like to see more [b]RimCards[/b] !
+I'll regularly check.
 
 [b]Hope you enjoy it.
 Stokovski.[/b]
 
-[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[img]https://i.imgur.com/PwoNOj4.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
@@ -94,4 +98,3 @@ Stokovski.[/b]
 [/list]
 </description>
 </ModMetaData>
-
