@@ -1,0 +1,1137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- CENTIPEDE -->
+  <ThingDef ParentName="ResourceBase">
+    <defName>trinkets_centipedeCard</defName>
+    <label>Centipede - Legendary</label>
+    <description>ATK : 3400 / DEF : 3200
+
+Mechanoid Expansion RimCard #1</description>
+    <graphicData>
+      <texPath>Trinkets_Images/CentipedeCard</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Standard_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <resourceReadoutPriority>Middle</resourceReadoutPriority>
+    <stackLimit>10</stackLimit>
+    <tradeNeverStack>true</tradeNeverStack>
+    <useHitPoints>true</useHitPoints>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <Mass>0.002</Mass>
+      <Beauty>8</Beauty>
+      <MarketValue>800</MarketValue>
+      <Flammability>1</Flammability>
+    </statBases>
+    <drawGUIOverlay>true</drawGUIOverlay>
+    <thingCategories>
+      <li>LegendaryRMMech</li>
+    </thingCategories>
+    <tradeTags>
+      <li>Orbital_RimCardsTrader</li>
+    </tradeTags>
+  </ThingDef>
+  <ThingDef ParentName="ResourceBase">
+    <defName>trinkets_centipedeshinyCard</defName>
+    <label>Centipede - Legendary SHINY</label>
+    <description>ATK : 3400 / DEF : 2200
+    
+Mechanoid Expansion RimCard #1</description>
+    <graphicData>
+      <texPath>Trinkets_Images/CentipedeshinyCard</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Standard_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <resourceReadoutPriority>Middle</resourceReadoutPriority>
+    <stackLimit>10</stackLimit>
+    <tradeNeverStack>true</tradeNeverStack>
+    <useHitPoints>true</useHitPoints>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <Mass>0.002</Mass>
+      <Beauty>80</Beauty>
+      <MarketValue>1600</MarketValue>
+      <Flammability>1</Flammability>
+    </statBases>
+    <drawGUIOverlay>true</drawGUIOverlay>
+    <thingCategories>
+      <li>SLegendaryRMMech</li>
+    </thingCategories>
+    <tradeTags>
+      <li>Orbital_RimCardsTrader</li>
+    </tradeTags>
+  </ThingDef>
+  <!-- BLASTER -->
+  <ThingDef ParentName="ResourceBase">
+    <defName>trinkets_blasterCard</defName>
+    <label>Auto Charge Blaster Turret - Epic</label>
+    <description>ATK : 3300 / DEF : 2900
+    
+Mechanoid Expansion RimCard #2</description>
+    <graphicData>
+      <texPath>Trinkets_Images/BlasterCard</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Standard_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <resourceReadoutPriority>Middle</resourceReadoutPriority>
+    <stackLimit>10</stackLimit>
+    <tradeNeverStack>true</tradeNeverStack>
+    <useHitPoints>true</useHitPoints>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <Mass>0.002</Mass>
+      <Beauty>6</Beauty>
+      <MarketValue>400</MarketValue>
+      <Flammability>1</Flammability>
+    </statBases>
+    <drawGUIOverlay>true</drawGUIOverlay>
+    <thingCategories>
+      <li>EpicRMMech</li>
+    </thingCategories>
+    <tradeTags>
+      <li>Orbital_RimCardsTrader</li>
+    </tradeTags>
+  </ThingDef>
+  <ThingDef ParentName="ResourceBase">
+    <defName>trinkets_blastershinyCard</defName>
+    <label>Auto Charge Blaster Turret - Epic SHINY</label>
+    <description>ATK : 3300 / DEF : 2900
+    
+Mechanoid Expansion RimCard #2</description>
+    <graphicData>
+      <texPath>Trinkets_Images/BlastershinyCard</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Standard_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <resourceReadoutPriority>Middle</resourceReadoutPriority>
+    <stackLimit>10</stackLimit>
+    <tradeNeverStack>true</tradeNeverStack>
+    <useHitPoints>true</useHitPoints>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <Mass>0.002</Mass>
+      <Beauty>60</Beauty>
+      <MarketValue>800</MarketValue>
+      <Flammability>1</Flammability>
+    </statBases>
+    <drawGUIOverlay>true</drawGUIOverlay>
+    <thingCategories>
+      <li>SEpicRMMech</li>
+    </thingCategories>
+    <tradeTags>
+      <li>Orbital_RimCardsTrader</li>
+    </tradeTags>
+  </ThingDef>
+  <!-- SCYTHER -->
+  <ThingDef ParentName="ResourceBase">
+    <defName>trinkets_scytherCard</defName>
+    <label>Scyther - Epic</label>
+    <description>ATK : 2300 / DEF : 1900
+    
+Mechanoid Expansion RimCard #3</description>
+    <graphicData>
+      <texPath>Trinkets_Images/ScytherCard</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Standard_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <resourceReadoutPriority>Middle</resourceReadoutPriority>
+    <stackLimit>10</stackLimit>
+    <tradeNeverStack>true</tradeNeverStack>
+    <useHitPoints>true</useHitPoints>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <Mass>0.002</Mass>
+      <Beauty>6</Beauty>
+      <MarketValue>400</MarketValue>
+      <Flammability>1</Flammability>
+    </statBases>
+    <drawGUIOverlay>true</drawGUIOverlay>
+    <thingCategories>
+      <li>EpicRMMech</li>
+    </thingCategories>
+    <tradeTags>
+      <li>Orbital_RimCardsTrader</li>
+    </tradeTags>
+  </ThingDef>
+  <ThingDef ParentName="ResourceBase">
+    <defName>trinkets_scythershinyCard</defName>
+    <label>Scyther - Epic SHINY</label>
+    <description>ATK : 2300 / DEF : 1900
+    
+Mechanoid Expansion RimCard #3</description>
+    <graphicData>
+      <texPath>Trinkets_Images/ScythershinyCard</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Standard_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <resourceReadoutPriority>Middle</resourceReadoutPriority>
+    <stackLimit>10</stackLimit>
+    <tradeNeverStack>true</tradeNeverStack>
+    <useHitPoints>true</useHitPoints>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <Mass>0.002</Mass>
+      <Beauty>60</Beauty>
+      <MarketValue>800</MarketValue>
+      <Flammability>1</Flammability>
+    </statBases>
+    <drawGUIOverlay>true</drawGUIOverlay>
+    <thingCategories>
+      <li>SEpicRMMech</li>
+    </thingCategories>
+    <tradeTags>
+      <li>Orbital_RimCardsTrader</li>
+    </tradeTags>
+  </ThingDef>
+  <!-- METEO -->
+  <ThingDef ParentName="ResourceBase">
+    <defName>trinkets_meteoCard</defName>
+    <label>Weather Controller - Epic</label>
+    <description>ATK : 1700 / DEF : 200
+    
+Mechanoid Expansion RimCard #4</description>
+    <graphicData>
+      <texPath>Trinkets_Images/MeteoCard</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Standard_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <resourceReadoutPriority>Middle</resourceReadoutPriority>
+    <stackLimit>10</stackLimit>
+    <tradeNeverStack>true</tradeNeverStack>
+    <useHitPoints>true</useHitPoints>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <Mass>0.002</Mass>
+      <Beauty>6</Beauty>
+      <MarketValue>400</MarketValue>
+      <Flammability>1</Flammability>
+    </statBases>
+    <drawGUIOverlay>true</drawGUIOverlay>
+    <thingCategories>
+      <li>EpicRMMech</li>
+    </thingCategories>
+    <tradeTags>
+      <li>Orbital_RimCardsTrader</li>
+    </tradeTags>
+  </ThingDef>
+  <ThingDef ParentName="ResourceBase">
+    <defName>trinkets_meteoshinyCard</defName>
+    <label>Weather Controller - Epic SHINY</label>
+    <description>ATK : 1700 / DEF : 200
+    
+Mechanoid Expansion RimCard #4</description>
+    <graphicData>
+      <texPath>Trinkets_Images/MeteoshinyCard</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Standard_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <resourceReadoutPriority>Middle</resourceReadoutPriority>
+    <stackLimit>10</stackLimit>
+    <tradeNeverStack>true</tradeNeverStack>
+    <useHitPoints>true</useHitPoints>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <Mass>0.002</Mass>
+      <Beauty>60</Beauty>
+      <MarketValue>800</MarketValue>
+      <Flammability>1</Flammability>
+    </statBases>
+    <drawGUIOverlay>true</drawGUIOverlay>
+    <thingCategories>
+      <li>SEpicRMMech</li>
+    </thingCategories>
+    <tradeTags>
+      <li>Orbital_RimCardsTrader</li>
+    </tradeTags>
+  </ThingDef>
+  <!-- PSYCHIC-->
+  <ThingDef ParentName="ResourceBase">
+    <defName>trinkets_psychicCard</defName>
+    <label>Psychic Ship - Rare</label>
+    <description>ATK : 900 / DEF : 1200
+    
+Mechanoid Expansion RimCard #5</description>
+    <graphicData>
+      <texPath>Trinkets_Images/PsychicCard</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Standard_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <resourceReadoutPriority>Middle</resourceReadoutPriority>
+    <stackLimit>10</stackLimit>
+    <tradeNeverStack>true</tradeNeverStack>
+    <useHitPoints>true</useHitPoints>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <Mass>0.002</Mass>
+      <Beauty>4</Beauty>
+      <MarketValue>200</MarketValue>
+      <Flammability>1</Flammability>
+    </statBases>
+    <drawGUIOverlay>true</drawGUIOverlay>
+    <thingCategories>
+      <li>RareRMMech</li>
+    </thingCategories>
+    <tradeTags>
+      <li>Orbital_RimCardsTrader</li>
+    </tradeTags>
+  </ThingDef>
+  <ThingDef ParentName="ResourceBase">
+    <defName>trinkets_psychicshinyCard</defName>
+    <label>Psychic Ship - Rare SHINY</label>
+    <description>ATK : 900 / DEF : 1200
+    
+Mechanoid Expansion RimCard #5</description>
+    <graphicData>
+      <texPath>Trinkets_Images/PsychicshinyCard</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Standard_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <resourceReadoutPriority>Middle</resourceReadoutPriority>
+    <stackLimit>10</stackLimit>
+    <tradeNeverStack>true</tradeNeverStack>
+    <useHitPoints>true</useHitPoints>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <Mass>0.002</Mass>
+      <Beauty>40</Beauty>
+      <MarketValue>400</MarketValue>
+      <Flammability>1</Flammability>
+    </statBases>
+    <drawGUIOverlay>true</drawGUIOverlay>
+    <thingCategories>
+      <li>SRareRMMech</li>
+    </thingCategories>
+    <tradeTags>
+      <li>Orbital_RimCardsTrader</li>
+    </tradeTags>
+  </ThingDef>
+  <!-- ASSEMBLER -->
+  <ThingDef ParentName="ResourceBase">
+    <defName>trinkets_assemblerCard</defName>
+    <label>Mech Assembler - Rare</label>
+    <description>ATK : 900 / DEF : 900
+    
+Mechanoid Expansion RimCard #6</description>
+    <graphicData>
+      <texPath>Trinkets_Images/AssemblerCard</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Standard_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <resourceReadoutPriority>Middle</resourceReadoutPriority>
+    <stackLimit>10</stackLimit>
+    <tradeNeverStack>true</tradeNeverStack>
+    <useHitPoints>true</useHitPoints>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <Mass>0.002</Mass>
+      <Beauty>4</Beauty>
+      <MarketValue>200</MarketValue>
+      <Flammability>1</Flammability>
+    </statBases>
+    <drawGUIOverlay>true</drawGUIOverlay>
+    <thingCategories>
+      <li>RareRMMech</li>
+    </thingCategories>
+    <tradeTags>
+      <li>Orbital_RimCardsTrader</li>
+    </tradeTags>
+  </ThingDef>
+  <ThingDef ParentName="ResourceBase">
+    <defName>trinkets_assemblershinyCard</defName>
+    <label>Mech Assembler - Rare SHINY</label>
+    <description>ATK : 900 / DEF : 900
+    
+Mechanoid Expansion RimCard #6</description>
+    <graphicData>
+      <texPath>Trinkets_Images/AssemblershinyCard</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Standard_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <resourceReadoutPriority>Middle</resourceReadoutPriority>
+    <stackLimit>10</stackLimit>
+    <tradeNeverStack>true</tradeNeverStack>
+    <useHitPoints>true</useHitPoints>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <Mass>0.002</Mass>
+      <Beauty>40</Beauty>
+      <MarketValue>400</MarketValue>
+      <Flammability>1</Flammability>
+    </statBases>
+    <drawGUIOverlay>true</drawGUIOverlay>
+    <thingCategories>
+      <li>SRareRMMech</li>
+    </thingCategories>
+    <tradeTags>
+      <li>Orbital_RimCardsTrader</li>
+    </tradeTags>
+  </ThingDef>
+  <!-- Lancer -->
+  <ThingDef ParentName="ResourceBase">
+    <defName>trinkets_lancerCard</defName>
+    <label>Lancer - Rare</label>
+    <description>ATK : 1600 / DEF : 1000
+    
+Mechanoid Expansion RimCard #7</description>
+    <graphicData>
+      <texPath>Trinkets_Images/LancerCard</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Standard_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <resourceReadoutPriority>Middle</resourceReadoutPriority>
+    <stackLimit>10</stackLimit>
+    <tradeNeverStack>true</tradeNeverStack>
+    <useHitPoints>true</useHitPoints>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <Mass>0.002</Mass>
+      <Beauty>4</Beauty>
+      <MarketValue>200</MarketValue>
+      <Flammability>1</Flammability>
+    </statBases>
+    <drawGUIOverlay>true</drawGUIOverlay>
+    <thingCategories>
+      <li>RareRMMech</li>
+    </thingCategories>
+    <tradeTags>
+      <li>Orbital_RimCardsTrader</li>
+    </tradeTags>
+  </ThingDef>
+  <ThingDef ParentName="ResourceBase">
+    <defName>trinkets_lancershinyCard</defName>
+    <label>Lancer - Rare SHINY</label>
+    <description>ATK : 1600 / DEF : 1000
+    
+Mechanoid Expansion RimCard #7</description>
+    <graphicData>
+      <texPath>Trinkets_Images/LancershinyCard</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Standard_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <resourceReadoutPriority>Middle</resourceReadoutPriority>
+    <stackLimit>10</stackLimit>
+    <tradeNeverStack>true</tradeNeverStack>
+    <useHitPoints>true</useHitPoints>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <Mass>0.002</Mass>
+      <Beauty>40</Beauty>
+      <MarketValue>400</MarketValue>
+      <Flammability>1</Flammability>
+    </statBases>
+    <drawGUIOverlay>true</drawGUIOverlay>
+    <thingCategories>
+      <li>SRareRMMech</li>
+    </thingCategories>
+    <tradeTags>
+      <li>Orbital_RimCardsTrader</li>
+    </tradeTags>
+  </ThingDef>
+  <!-- INFERNO -->
+  <ThingDef ParentName="ResourceBase">
+    <defName>trinkets_infernoCard</defName>
+    <label>Auto Inferno Turret - Rare</label>
+    <description>ATK : 2200 / DEF : 400
+    
+Mechanoid Expansion RimCard #8</description>
+    <graphicData>
+      <texPath>Trinkets_Images/InfernoCard</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Standard_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <resourceReadoutPriority>Middle</resourceReadoutPriority>
+    <stackLimit>10</stackLimit>
+    <tradeNeverStack>true</tradeNeverStack>
+    <useHitPoints>true</useHitPoints>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <Mass>0.002</Mass>
+      <Beauty>4</Beauty>
+      <MarketValue>200</MarketValue>
+      <Flammability>1</Flammability>
+    </statBases>
+    <drawGUIOverlay>true</drawGUIOverlay>
+    <thingCategories>
+      <li>RareRMMech</li>
+    </thingCategories>
+    <tradeTags>
+      <li>Orbital_RimCardsTrader</li>
+    </tradeTags>
+  </ThingDef>
+  <ThingDef ParentName="ResourceBase">
+    <defName>trinkets_infernoshinyCard</defName>
+    <label>Auto Inferno Turret - Rare SHINY</label>
+    <description>ATK : 2200 / DEF : 400
+    
+Mechanoid Expansion RimCard #8</description>
+    <graphicData>
+      <texPath>Trinkets_Images/InfernoshinyCard</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Standard_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <resourceReadoutPriority>Middle</resourceReadoutPriority>
+    <stackLimit>10</stackLimit>
+    <tradeNeverStack>true</tradeNeverStack>
+    <useHitPoints>true</useHitPoints>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <Mass>0.002</Mass>
+      <Beauty>40</Beauty>
+      <MarketValue>400</MarketValue>
+      <Flammability>1</Flammability>
+    </statBases>
+    <drawGUIOverlay>true</drawGUIOverlay>
+    <thingCategories>
+      <li>SRareRM</li>
+    </thingCategories>
+    <tradeTags>
+      <li>Orbital_RimCardsTrader</li>
+    </tradeTags>
+  </ThingDef>
+  <!-- PIKEMAN-->
+  <ThingDef ParentName="ResourceBase">
+    <defName>trinkets_pikemanCard</defName>
+    <label>Pikeman - Rare</label>
+    <description>ATK : 1500 / DEF : 1500
+    
+Mechanoid Expansion RimCard #9</description>
+    <graphicData>
+      <texPath>Trinkets_Images/PikemanCard</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Standard_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <resourceReadoutPriority>Middle</resourceReadoutPriority>
+    <stackLimit>10</stackLimit>
+    <tradeNeverStack>true</tradeNeverStack>
+    <useHitPoints>true</useHitPoints>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <Mass>0.002</Mass>
+      <Beauty>4</Beauty>
+      <MarketValue>200</MarketValue>
+      <Flammability>1</Flammability>
+    </statBases>
+    <drawGUIOverlay>true</drawGUIOverlay>
+    <thingCategories>
+      <li>RareRMMech</li>
+    </thingCategories>
+    <tradeTags>
+      <li>Orbital_RimCardsTrader</li>
+    </tradeTags>
+  </ThingDef>
+  <ThingDef ParentName="ResourceBase">
+    <defName>trinkets_pikemanshinyCard</defName>
+    <label>Pikeman - Rare SHINY</label>
+    <description>ATK : 1500 / DEF : 1500
+    
+Mechanoid Expansion RimCard #9</description>
+    <graphicData>
+      <texPath>Trinkets_Images/PikemanshinyCard</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Standard_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <resourceReadoutPriority>Middle</resourceReadoutPriority>
+    <stackLimit>10</stackLimit>
+    <tradeNeverStack>true</tradeNeverStack>
+    <useHitPoints>true</useHitPoints>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <Mass>0.002</Mass>
+      <Beauty>40</Beauty>
+      <MarketValue>400</MarketValue>
+      <Flammability>1</Flammability>
+    </statBases>
+    <drawGUIOverlay>true</drawGUIOverlay>
+    <thingCategories>
+      <li>SRareRMMech</li>
+    </thingCategories>
+    <tradeTags>
+      <li>Orbital_RimCardsTrader</li>
+    </tradeTags>
+  </ThingDef>
+  <!-- BARRICADE -->
+  <ThingDef ParentName="ResourceBase">
+    <defName>trinkets_barricadeCard</defName>
+    <label>Barricade - Common</label>
+    <description>ATK : 0 / DEF : 500
+    
+Mechanoid Expansion RimCard #10</description>
+    <graphicData>
+      <texPath>Trinkets_Images/BarricadeCard</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Standard_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <resourceReadoutPriority>Middle</resourceReadoutPriority>
+    <stackLimit>10</stackLimit>
+    <tradeNeverStack>true</tradeNeverStack>
+    <useHitPoints>true</useHitPoints>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <Mass>0.002</Mass>
+      <Beauty>2</Beauty>
+      <MarketValue>100</MarketValue>
+      <Flammability>1</Flammability>
+    </statBases>
+    <drawGUIOverlay>true</drawGUIOverlay>
+    <thingCategories>
+      <li>CommonRMMech</li>
+    </thingCategories>
+    <tradeTags>
+      <li>Orbital_RimCardsTrader</li>
+    </tradeTags>
+  </ThingDef>
+  <ThingDef ParentName="ResourceBase">
+    <defName>trinkets_barricadeshinyCard</defName>
+    <label>Barricade - Common SHINY</label>
+    <description>ATK : 0 / DEF : 500
+    
+Mechanoid Expansion RimCard #10</description>
+    <graphicData>
+      <texPath>Trinkets_Images/BarricadeshinyCard</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Standard_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <resourceReadoutPriority>Middle</resourceReadoutPriority>
+    <stackLimit>10</stackLimit>
+    <tradeNeverStack>true</tradeNeverStack>
+    <useHitPoints>true</useHitPoints>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <Mass>0.002</Mass>
+      <Beauty>20</Beauty>
+      <MarketValue>200</MarketValue>
+      <Flammability>1</Flammability>
+    </statBases>
+    <drawGUIOverlay>true</drawGUIOverlay>
+    <thingCategories>
+      <li>SCommonRMMech</li>
+    </thingCategories>
+    <tradeTags>
+      <li>Orbital_RimCardsTrader</li>
+    </tradeTags>
+  </ThingDef>
+  <!-- COUNT -->
+  <ThingDef ParentName="ResourceBase">
+    <defName>trinkets_countCard</defName>
+    <label>Countdown Activator - Common</label>
+    <description>ATK : 0 / DEF : 600
+    
+Mechanoid Expansion RimCard #11</description>
+    <graphicData>
+      <texPath>Trinkets_Images/CountCard</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Standard_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <resourceReadoutPriority>Middle</resourceReadoutPriority>
+    <stackLimit>10</stackLimit>
+    <tradeNeverStack>true</tradeNeverStack>
+    <useHitPoints>true</useHitPoints>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <Mass>0.002</Mass>
+      <Beauty>2</Beauty>
+      <MarketValue>100</MarketValue>
+      <Flammability>1</Flammability>
+    </statBases>
+    <drawGUIOverlay>true</drawGUIOverlay>
+    <thingCategories>
+      <li>CommonRMMech</li>
+    </thingCategories>
+    <tradeTags>
+      <li>Orbital_RimCardsTrader</li>
+    </tradeTags>
+  </ThingDef>
+  <ThingDef ParentName="ResourceBase">
+    <defName>trinkets_countshinyCard</defName>
+    <label>Countdown Activator - Common SHINY</label>
+    <description>ATK : 0 / DEF : 600
+    
+Mechanoid Expansion RimCard #11</description>
+    <graphicData>
+      <texPath>Trinkets_Images/CountshinyCard</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Standard_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <resourceReadoutPriority>Middle</resourceReadoutPriority>
+    <stackLimit>10</stackLimit>
+    <tradeNeverStack>true</tradeNeverStack>
+    <useHitPoints>true</useHitPoints>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <Mass>0.002</Mass>
+      <Beauty>20</Beauty>
+      <MarketValue>200</MarketValue>
+      <Flammability>1</Flammability>
+    </statBases>
+    <drawGUIOverlay>true</drawGUIOverlay>
+    <thingCategories>
+      <li>SCommonRMMech</li>
+    </thingCategories>
+    <tradeTags>
+      <li>Orbital_RimCardsTrader</li>
+    </tradeTags>
+  </ThingDef>
+  <!-- DROP -->
+  <ThingDef ParentName="ResourceBase">
+    <defName>trinkets_dropCard</defName>
+    <label>Mech Drop Beacon - Common</label>
+    <description>ATK : 0 / DEF : 900
+    
+Mechanoid Expansion RimCard #12</description>
+    <graphicData>
+      <texPath>Trinkets_Images/DropCard</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Standard_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <resourceReadoutPriority>Middle</resourceReadoutPriority>
+    <stackLimit>10</stackLimit>
+    <tradeNeverStack>true</tradeNeverStack>
+    <useHitPoints>true</useHitPoints>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <Mass>0.002</Mass>
+      <Beauty>2</Beauty>
+      <MarketValue>100</MarketValue>
+      <Flammability>1</Flammability>
+    </statBases>
+    <drawGUIOverlay>true</drawGUIOverlay>
+    <thingCategories>
+      <li>CommonRMMech</li>
+    </thingCategories>
+    <tradeTags>
+      <li>Orbital_RimCardsTrader</li>
+    </tradeTags>
+  </ThingDef>
+  <ThingDef ParentName="ResourceBase">
+    <defName>trinkets_dropshinyCard</defName>
+    <label>Mech Drop Beacon - Common SHINY</label>
+    <description>ATK : 0 / DEF : 900
+    
+Mechanoid Expansion RimCard #12</description>
+    <graphicData>
+      <texPath>Trinkets_Images/DropshinyCard</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Standard_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <resourceReadoutPriority>Middle</resourceReadoutPriority>
+    <stackLimit>10</stackLimit>
+    <tradeNeverStack>true</tradeNeverStack>
+    <useHitPoints>true</useHitPoints>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <Mass>0.002</Mass>
+      <Beauty>20</Beauty>
+      <MarketValue>200</MarketValue>
+      <Flammability>1</Flammability>
+    </statBases>
+    <drawGUIOverlay>true</drawGUIOverlay>
+    <thingCategories>
+      <li>SCommonRMMech</li>
+    </thingCategories>
+    <tradeTags>
+      <li>Orbital_RimCardsTrader</li>
+    </tradeTags>
+  </ThingDef>
+  <!-- TURRET -->
+  <ThingDef ParentName="ResourceBase">
+    <defName>trinkets_turretCard</defName>
+    <label>Mini Slugger Turret - Common</label>
+    <description>ATK : 900 / DEF : 200
+    
+Mechanoid Expansion RimCard #13</description>
+    <graphicData>
+      <texPath>Trinkets_Images/TurretCard</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Standard_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <resourceReadoutPriority>Middle</resourceReadoutPriority>
+    <stackLimit>10</stackLimit>
+    <tradeNeverStack>true</tradeNeverStack>
+    <useHitPoints>true</useHitPoints>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <Mass>0.002</Mass>
+      <Beauty>2</Beauty>
+      <MarketValue>100</MarketValue>
+      <Flammability>1</Flammability>
+    </statBases>
+    <drawGUIOverlay>true</drawGUIOverlay>
+    <thingCategories>
+      <li>CommonRMMech</li>
+    </thingCategories>
+    <tradeTags>
+      <li>Orbital_RimCardsTrader</li>
+    </tradeTags>
+  </ThingDef>
+  <ThingDef ParentName="ResourceBase">
+    <defName>trinkets_turretshinyCard</defName>
+    <label>Mini Slugger Turret - Common SHINY</label>
+    <description>ATK : 900 / DEF : 200
+    
+Mechanoid Expansion RimCard #13</description>
+    <graphicData>
+      <texPath>Trinkets_Images/TurretshinyCard</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Standard_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <resourceReadoutPriority>Middle</resourceReadoutPriority>
+    <stackLimit>10</stackLimit>
+    <tradeNeverStack>true</tradeNeverStack>
+    <useHitPoints>true</useHitPoints>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <Mass>0.002</Mass>
+      <Beauty>20</Beauty>
+      <MarketValue>200</MarketValue>
+      <Flammability>1</Flammability>
+    </statBases>
+    <drawGUIOverlay>true</drawGUIOverlay>
+    <thingCategories>
+      <li>SCommonRMMech</li>
+    </thingCategories>
+    <tradeTags>
+      <li>Orbital_RimCardsTrader</li>
+    </tradeTags>
+  </ThingDef>
+  <!-- PROX -->
+  <ThingDef ParentName="ResourceBase">
+    <defName>trinkets_proxCard</defName>
+    <label>Proximity Activator - Common</label>
+    <description>ATK : 0 / DEF : 100
+    
+Mechanoid Expansion RimCard #14</description>
+    <graphicData>
+      <texPath>Trinkets_Images/ProxCard</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Standard_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <resourceReadoutPriority>Middle</resourceReadoutPriority>
+    <stackLimit>10</stackLimit>
+    <tradeNeverStack>true</tradeNeverStack>
+    <useHitPoints>true</useHitPoints>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <Mass>0.002</Mass>
+      <Beauty>2</Beauty>
+      <MarketValue>100</MarketValue>
+      <Flammability>1</Flammability>
+    </statBases>
+    <drawGUIOverlay>true</drawGUIOverlay>
+    <thingCategories>
+      <li>CommonRMMech</li>
+    </thingCategories>
+    <tradeTags>
+      <li>Orbital_RimCardsTrader</li>
+    </tradeTags>
+  </ThingDef>
+  <ThingDef ParentName="ResourceBase">
+    <defName>trinkets_proxshinyCard</defName>
+    <label>Proximity Activator - Common SHINY</label>
+    <description>ATK : 0 / DEF : 100
+    
+Mechanoid Expansion RimCard #14</description>
+    <graphicData>
+      <texPath>Trinkets_Images/ProxshinyCard</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Standard_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <resourceReadoutPriority>Middle</resourceReadoutPriority>
+    <stackLimit>10</stackLimit>
+    <tradeNeverStack>true</tradeNeverStack>
+    <useHitPoints>true</useHitPoints>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <Mass>0.002</Mass>
+      <Beauty>20</Beauty>
+      <MarketValue>200</MarketValue>
+      <Flammability>1</Flammability>
+    </statBases>
+    <drawGUIOverlay>true</drawGUIOverlay>
+    <thingCategories>
+      <li>SCommonRMMech</li>
+    </thingCategories>
+    <tradeTags>
+      <li>Orbital_RimCardsTrader</li>
+    </tradeTags>
+  </ThingDef>
+  <!-- SHIELDMORTAR -->
+  <ThingDef ParentName="ResourceBase">
+    <defName>trinkets_shieldmortarCard</defName>
+    <label>Mortar Shield - Common</label>
+    <description>ATK : 0 / DEF : 2500
+    
+Mechanoid Expansion RimCard #15</description>
+    <graphicData>
+      <texPath>Trinkets_Images/ShieldmortarCard</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Standard_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <resourceReadoutPriority>Middle</resourceReadoutPriority>
+    <stackLimit>10</stackLimit>
+    <tradeNeverStack>true</tradeNeverStack>
+    <useHitPoints>true</useHitPoints>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <Mass>0.002</Mass>
+      <Beauty>2</Beauty>
+      <MarketValue>100</MarketValue>
+      <Flammability>1</Flammability>
+    </statBases>
+    <drawGUIOverlay>true</drawGUIOverlay>
+    <thingCategories>
+      <li>CommonRMMech</li>
+    </thingCategories>
+    <tradeTags>
+      <li>Orbital_RimCardsTrader</li>
+    </tradeTags>
+  </ThingDef>
+  <ThingDef ParentName="ResourceBase">
+    <defName>trinkets_shieldmortarshinyCard</defName>
+    <label>Mortar Shield - Common SHINY</label>
+    <description>ATK : 0 / DEF : 2500
+    
+Mechanoid Expansion RimCard #15</description>
+    <graphicData>
+      <texPath>Trinkets_Images/ShieldmortarshinyCard</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Standard_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <resourceReadoutPriority>Middle</resourceReadoutPriority>
+    <stackLimit>10</stackLimit>
+    <tradeNeverStack>true</tradeNeverStack>
+    <useHitPoints>true</useHitPoints>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <Mass>0.002</Mass>
+      <Beauty>20</Beauty>
+      <MarketValue>200</MarketValue>
+      <Flammability>1</Flammability>
+    </statBases>
+    <drawGUIOverlay>true</drawGUIOverlay>
+    <thingCategories>
+      <li>SCommonRMMech</li>
+    </thingCategories>
+    <tradeTags>
+      <li>Orbital_RimCardsTrader</li>
+    </tradeTags>
+  </ThingDef>
+  <!-- PART -->
+  <ThingDef ParentName="ResourceBase">
+    <defName>trinkets_partCard</defName>
+    <label>Ship Part - Common</label>
+    <description>ATK : 0 / DEF : 400
+    
+Mechanoid Expansion RimCard #16</description>
+    <graphicData>
+      <texPath>Trinkets_Images/PartCard</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Standard_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <resourceReadoutPriority>Middle</resourceReadoutPriority>
+    <stackLimit>10</stackLimit>
+    <tradeNeverStack>true</tradeNeverStack>
+    <useHitPoints>true</useHitPoints>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <Mass>0.002</Mass>
+      <Beauty>2</Beauty>
+      <MarketValue>100</MarketValue>
+      <Flammability>1</Flammability>
+    </statBases>
+    <drawGUIOverlay>true</drawGUIOverlay>
+    <thingCategories>
+      <li>CommonRMMech</li>
+    </thingCategories>
+    <tradeTags>
+      <li>Orbital_RimCardsTrader</li>
+    </tradeTags>
+  </ThingDef>
+  <ThingDef ParentName="ResourceBase">
+    <defName>trinkets_partshinyCard</defName>
+    <label>Ship Part - Common SHINY</label>
+    <description>ATK : 0 / DEF : 400
+    
+Mechanoid Expansion RimCard #16</description>
+    <graphicData>
+      <texPath>Trinkets_Images/PartshinyCard</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Standard_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <resourceReadoutPriority>Middle</resourceReadoutPriority>
+    <stackLimit>10</stackLimit>
+    <tradeNeverStack>true</tradeNeverStack>
+    <useHitPoints>true</useHitPoints>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <Mass>0.002</Mass>
+      <Beauty>20</Beauty>
+      <MarketValue>200</MarketValue>
+      <Flammability>1</Flammability>
+    </statBases>
+    <drawGUIOverlay>true</drawGUIOverlay>
+    <thingCategories>
+      <li>SCommonRMMech</li>
+    </thingCategories>
+    <tradeTags>
+      <li>Orbital_RimCardsTrader</li>
+    </tradeTags>
+  </ThingDef>
+  <!-- SMOKE -->
+  <ThingDef ParentName="ResourceBase">
+    <defName>trinkets_smokeCard</defName>
+    <label>Smoke Spewer - Common</label>
+    <description>ATK : 0 / DEF : 700
+    
+Mechanoid Expansion RimCard #17</description>
+    <graphicData>
+      <texPath>Trinkets_Images/SmokeCard</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Standard_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <resourceReadoutPriority>Middle</resourceReadoutPriority>
+    <stackLimit>10</stackLimit>
+    <tradeNeverStack>true</tradeNeverStack>
+    <useHitPoints>true</useHitPoints>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <Mass>0.002</Mass>
+      <Beauty>2</Beauty>
+      <MarketValue>100</MarketValue>
+      <Flammability>1</Flammability>
+    </statBases>
+    <drawGUIOverlay>true</drawGUIOverlay>
+    <thingCategories>
+      <li>CommonRMMech</li>
+    </thingCategories>
+    <tradeTags>
+      <li>Orbital_RimCardsTrader</li>
+    </tradeTags>
+  </ThingDef>
+  <ThingDef ParentName="ResourceBase">
+    <defName>trinkets_smokeshinyCard</defName>
+    <label>Smoke Spewer - Common SHINY</label>
+    <description>ATK : 0 / DEF : 700
+    
+Mechanoid Expansion RimCard #17</description>
+    <graphicData>
+      <texPath>Trinkets_Images/SmokeshinyCard</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Standard_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <resourceReadoutPriority>Middle</resourceReadoutPriority>
+    <stackLimit>10</stackLimit>
+    <tradeNeverStack>true</tradeNeverStack>
+    <useHitPoints>true</useHitPoints>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <Mass>0.002</Mass>
+      <Beauty>20</Beauty>
+      <MarketValue>200</MarketValue>
+      <Flammability>1</Flammability>
+    </statBases>
+    <drawGUIOverlay>true</drawGUIOverlay>
+    <thingCategories>
+      <li>SCommonRMMech</li>
+    </thingCategories>
+    <tradeTags>
+      <li>Orbital_RimCardsTrader</li>
+    </tradeTags>
+  </ThingDef>
+  <!-- SHIELDBULLET -->
+  <ThingDef ParentName="ResourceBase">
+    <defName>trinkets_shieldbulletCard</defName>
+    <label>Bullet Shield - Common</label>
+    <description>ATK : 0 / DEF : 700
+    
+Mechanoid Expansion RimCard #18</description>
+    <graphicData>
+      <texPath>Trinkets_Images/ShieldbulletCard</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Standard_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <resourceReadoutPriority>Middle</resourceReadoutPriority>
+    <stackLimit>10</stackLimit>
+    <tradeNeverStack>true</tradeNeverStack>
+    <useHitPoints>true</useHitPoints>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <Mass>0.002</Mass>
+      <Beauty>2</Beauty>
+      <MarketValue>100</MarketValue>
+      <Flammability>1</Flammability>
+    </statBases>
+    <drawGUIOverlay>true</drawGUIOverlay>
+    <thingCategories>
+      <li>CommonRMMech</li>
+    </thingCategories>
+    <tradeTags>
+      <li>Orbital_RimCardsTrader</li>
+    </tradeTags>
+  </ThingDef>
+  <ThingDef ParentName="ResourceBase">
+    <defName>trinkets_shieldbulletshinyCard</defName>
+    <label>Bullet Shield - Common SHINY</label>
+    <description>ATK : 0 / DEF : 700
+    
+Mechanoid Expansion RimCard #18</description>
+    <graphicData>
+      <texPath>Trinkets_Images/ShieldbulletshinyCard</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Standard_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <resourceReadoutPriority>Middle</resourceReadoutPriority>
+    <stackLimit>10</stackLimit>
+    <tradeNeverStack>true</tradeNeverStack>
+    <useHitPoints>true</useHitPoints>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <Mass>0.002</Mass>
+      <Beauty>20</Beauty>
+      <MarketValue>200</MarketValue>
+      <Flammability>1</Flammability>
+    </statBases>
+    <drawGUIOverlay>true</drawGUIOverlay>
+    <thingCategories>
+      <li>SCommonRMMech</li>
+    </thingCategories>
+    <tradeTags>
+      <li>Orbital_RimCardsTrader</li>
+    </tradeTags>
+  </ThingDef>
+</Defs>

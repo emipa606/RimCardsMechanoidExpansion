@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!--============================== BASIC TROPHY ==============================-->
+  <ThingDef ParentName="BuildingBase">
+    <defName>MecTrophy</defName>
+    <label>RimCard Ultimate Deck - Mechanoid Edition</label>
+    <description>You effectively caught all the nasty bugs, well done !</description>
+    <castEdgeShadows>false</castEdgeShadows>
+    <graphicData>
+      <texPath>Trinkets_Images/RimcardsTrophyMec</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1.8,1.8)</drawSize>
+    </graphicData>
+    <altitudeLayer>Building</altitudeLayer>
+    <statBases>
+      <MaxHitPoints>160</MaxHitPoints>
+      <Beauty>1800</Beauty>
+      <WorkToBuild>1</WorkToBuild>
+      <Flammability>1.0</Flammability>
+      <Mass>3</Mass>
+    </statBases>
+    <size>(2,2)</size>
+    <costList>
+      <trinkets_centipedeCard>1</trinkets_centipedeCard>
+      <trinkets_blasterCard>1</trinkets_blasterCard>
+      <trinkets_scytherCard>1</trinkets_scytherCard>
+      <trinkets_meteoCard>1</trinkets_meteoCard>
+      <trinkets_psychicCard>1</trinkets_psychicCard>
+      <trinkets_assemblerCard>1</trinkets_assemblerCard>
+      <trinkets_lancerCard>1</trinkets_lancerCard>
+      <trinkets_infernoCard>1</trinkets_infernoCard>
+      <trinkets_pikemanCard>1</trinkets_pikemanCard>
+      <trinkets_barricadeCard>1</trinkets_barricadeCard>
+      <trinkets_countCard>1</trinkets_countCard>
+      <trinkets_dropCard>1</trinkets_dropCard>
+      <trinkets_turretCard>1</trinkets_turretCard>
+      <trinkets_proxCard>1</trinkets_proxCard>
+      <trinkets_shieldmortarCard>1</trinkets_shieldmortarCard>
+      <trinkets_shieldbulletCard>1</trinkets_shieldbulletCard>
+      <trinkets_partCard>1</trinkets_partCard>
+      <trinkets_smokeCard>1</trinkets_smokeCard>
+    </costList>
+    <rotatable>false</rotatable>
+    <scatterableOnMapGen>true</scatterableOnMapGen>
+    <designationCategory>Misc</designationCategory>
+    <passability>PassThroughOnly</passability>
+    <building>
+      <canPlaceOverImpassablePlant>true</canPlaceOverImpassablePlant>
+      <ai_chillDestination>false</ai_chillDestination>
+    </building>
+    <pathCost>5</pathCost>
+    <useHitPoints>true</useHitPoints>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <designationHotKey>Misc9</designationHotKey>
+    <thingCategories>
+      <li>BuildingsArt</li>
+    </thingCategories>
+    <leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
+  </ThingDef>
+  <!--============================== BASIC TROPHY SHINY ==============================-->
+  <ThingDef ParentName="BuildingBase">
+    <defName>MecShinyTrophy</defName>
+    <label>RimCard Ultimate Shiny Deck - Mechanoid Edition</label>
+    <description>You effectively caught all the shiny bugs, very well done !</description>
+    <castEdgeShadows>false</castEdgeShadows>
+    <graphicData>
+      <texPath>Trinkets_Images/RimcardsShinyTrophyMec</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1.8,1.8)</drawSize>
+    </graphicData>
+    <altitudeLayer>Building</altitudeLayer>
+    <statBases>
+      <MaxHitPoints>160</MaxHitPoints>
+      <Beauty>3600</Beauty>
+      <WorkToBuild>1</WorkToBuild>
+      <Flammability>1.0</Flammability>
+      <Mass>3</Mass>
+    </statBases>
+    <size>(2,2)</size>
+    <costList>
+      <trinkets_centipedeCard>1</trinkets_centipedeCard>
+      <trinkets_blastershinyCard>1</trinkets_blastershinyCard>
+      <trinkets_scythershinyCard>1</trinkets_scythershinyCard>
+      <trinkets_meteoshinyCard>1</trinkets_meteoshinyCard>
+      <trinkets_psychicshinyCard>1</trinkets_psychicshinyCard>
+      <trinkets_assemblershinyCard>1</trinkets_assemblershinyCard>
+      <trinkets_lancershinyCard>1</trinkets_lancershinyCard>
+      <trinkets_infernoshinyCard>1</trinkets_infernoshinyCard>
+      <trinkets_pikemanshinyCard>1</trinkets_pikemanshinyCard>
+      <trinkets_barricadeshinyCard>1</trinkets_barricadeshinyCard>
+      <trinkets_countshinyCard>1</trinkets_countshinyCard>
+      <trinkets_dropshinyCard>1</trinkets_dropshinyCard>
+      <trinkets_turretshinyCard>1</trinkets_turretshinyCard>
+      <trinkets_proxshinyCard>1</trinkets_proxshinyCard>
+      <trinkets_shieldmortarshinyCard>1</trinkets_shieldmortarshinyCard>
+      <trinkets_shieldbulletshinyCard>1</trinkets_shieldbulletshinyCard>
+      <trinkets_partshinyCard>1</trinkets_partshinyCard>
+      <trinkets_smokeshinyCard>1</trinkets_smokeshinyCard>
+    </costList>
+    <rotatable>false</rotatable>
+    <scatterableOnMapGen>true</scatterableOnMapGen>
+    <designationCategory>Misc</designationCategory>
+    <passability>PassThroughOnly</passability>
+    <building>
+      <canPlaceOverImpassablePlant>true</canPlaceOverImpassablePlant>
+      <ai_chillDestination>false</ai_chillDestination>
+    </building>
+    <pathCost>5</pathCost>
+    <useHitPoints>true</useHitPoints>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <designationHotKey>Misc9</designationHotKey>
+    <thingCategories>
+      <li>BuildingsArt</li>
+    </thingCategories>
+    <leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
+  </ThingDef>
+</Defs>
