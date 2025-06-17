@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Common Rimcards -->
+  <CommonRMMech.label>Common Rimcards</CommonRMMech.label>
+  <!-- EN: Epic Rimcards -->
+  <EpicRMMech.label>Epic Rimcards</EpicRMMech.label>
+  <!-- EN: legendary Rimcards -->
+  <LegendaryRMMech.label>legendary Rimcards</LegendaryRMMech.label>
+  <!-- EN: Normal RimCards -->
+  <NormalRimCardsMech.label>Normal RimCards</NormalRimCardsMech.label>
+  <!-- EN: Rare Rimcards -->
+  <RareRMMech.label>Rare Rimcards</RareRMMech.label>
+  <!-- EN: Mechanoid Expansion -->
+  <RimCardsMechSet.label>Mechanoid Expansion</RimCardsMechSet.label>
+  <!-- EN: Shiny Common Rimcards -->
+  <SCommonRMMech.label>Shiny Common Rimcards</SCommonRMMech.label>
+  <!-- EN: Shiny Epic Rimcards -->
+  <SEpicRMMech.label>Shiny Epic Rimcards</SEpicRMMech.label>
+  <!-- EN: Shiny RimCards -->
+  <ShinyRimCardsMech.label>Shiny RimCards</ShinyRimCardsMech.label>
+  <!-- EN: Shiny Legendary Rimcards -->
+  <SLegendaryRMMech.label>Shiny Legendary Rimcards</SLegendaryRMMech.label>
+  <!-- EN: Shiny Rare Rimcards -->
+  <SRareRMMech.label>Shiny Rare Rimcards</SRareRMMech.label>
+</LanguageData>

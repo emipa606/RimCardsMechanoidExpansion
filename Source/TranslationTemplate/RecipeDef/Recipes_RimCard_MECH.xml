@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Mechanoid - Craft Mech Assembler RimCard (rare) -->
+  <CraftAssembler.label>Mechanoid - Craft Mech Assembler RimCard (rare)</CraftAssembler.label>
+  <!-- EN: Craft RimCard. -->
+  <CraftAssembler.description>Craft RimCard.</CraftAssembler.description>
+  <!-- EN: crafting RimCard -->
+  <CraftAssembler.jobString>crafting RimCard</CraftAssembler.jobString>
+  <!-- EN: Mechanoid - Craft Barricade RimCard (common) -->
+  <CraftBarricade.label>Mechanoid - Craft Barricade RimCard (common)</CraftBarricade.label>
+  <!-- EN: Craft RimCard. -->
+  <CraftBarricade.description>Craft RimCard.</CraftBarricade.description>
+  <!-- EN: crafting RimCard -->
+  <CraftBarricade.jobString>crafting RimCard</CraftBarricade.jobString>
+  <!-- EN: Mechanoid - Craft Blaster RimCard (epic) -->
+  <CraftBlaster.label>Mechanoid - Craft Blaster RimCard (epic)</CraftBlaster.label>
+  <!-- EN: Craft RimCard. -->
+  <CraftBlaster.description>Craft RimCard.</CraftBlaster.description>
+  <!-- EN: crafting RimCard -->
+  <CraftBlaster.jobString>crafting RimCard</CraftBlaster.jobString>
+  <!-- EN: Mechanoid - Craft Centipede RimCard (legendary) -->
+  <CraftCentipede.label>Mechanoid - Craft Centipede RimCard (legendary)</CraftCentipede.label>
+  <!-- EN: Craft RimCard. -->
+  <CraftCentipede.description>Craft RimCard.</CraftCentipede.description>
+  <!-- EN: crafting RimCard -->
+  <CraftCentipede.jobString>crafting RimCard</CraftCentipede.jobString>
+  <!-- EN: Mechanoid - Craft Countdown Activator RimCard (common) -->
+  <CraftCount.label>Mechanoid - Craft Countdown Activator RimCard (common)</CraftCount.label>
+  <!-- EN: Craft RimCard. -->
+  <CraftCount.description>Craft RimCard.</CraftCount.description>
+  <!-- EN: crafting RimCard -->
+  <CraftCount.jobString>crafting RimCard</CraftCount.jobString>
+  <!-- EN: Mechanoid - Craft Mech Drop Beacon RimCard (common) -->
+  <CraftDrop.label>Mechanoid - Craft Mech Drop Beacon RimCard (common)</CraftDrop.label>
+  <!-- EN: Craft RimCard. -->
+  <CraftDrop.description>Craft RimCard.</CraftDrop.description>
+  <!-- EN: crafting RimCard -->
+  <CraftDrop.jobString>crafting RimCard</CraftDrop.jobString>
+  <!-- EN: Mechanoid - Craft Auto Inferno Turret RimCard (rare) -->
+  <CraftInferno.label>Mechanoid - Craft Auto Inferno Turret RimCard (rare)</CraftInferno.label>
+  <!-- EN: Craft RimCard. -->
+  <CraftInferno.description>Craft RimCard.</CraftInferno.description>
+  <!-- EN: crafting RimCard -->
+  <CraftInferno.jobString>crafting RimCard</CraftInferno.jobString>
+  <!-- EN: Mechanoid - Craft Lancer RimCard (rare) -->
+  <CraftLancer.label>Mechanoid - Craft Lancer RimCard (rare)</CraftLancer.label>
+  <!-- EN: Craft RimCard. -->
+  <CraftLancer.description>Craft RimCard.</CraftLancer.description>
+  <!-- EN: crafting RimCard -->
+  <CraftLancer.jobString>crafting RimCard</CraftLancer.jobString>
+  <!-- EN: Mechanoid - Craft Weather Controller RimCard (epic) -->
+  <CraftMeteo.label>Mechanoid - Craft Weather Controller RimCard (epic)</CraftMeteo.label>
+  <!-- EN: Craft RimCard. -->
+  <CraftMeteo.description>Craft RimCard.</CraftMeteo.description>
+  <!-- EN: crafting RimCard -->
+  <CraftMeteo.jobString>crafting RimCard</CraftMeteo.jobString>
+  <!-- EN: Mechanoid - Craft Pikeman RimCard (rare) -->
+  <CraftPikeman.label>Mechanoid - Craft Pikeman RimCard (rare)</CraftPikeman.label>
+  <!-- EN: Craft RimCard. -->
+  <CraftPikeman.description>Craft RimCard.</CraftPikeman.description>
+  <!-- EN: crafting RimCard -->
+  <CraftPikeman.jobString>crafting RimCard</CraftPikeman.jobString>
+  <!-- EN: Mechanoid - Craft Proximity Activator RimCard (common) -->
+  <CraftProx.label>Mechanoid - Craft Proximity Activator RimCard (common)</CraftProx.label>
+  <!-- EN: Craft RimCard. -->
+  <CraftProx.description>Craft RimCard.</CraftProx.description>
+  <!-- EN: crafting RimCard -->
+  <CraftProx.jobString>crafting RimCard</CraftProx.jobString>
+  <!-- EN: Mechanoid - Craft Psychic Ship RimCard (rare) -->
+  <CraftPsychic.label>Mechanoid - Craft Psychic Ship RimCard (rare)</CraftPsychic.label>
+  <!-- EN: Craft RimCard. -->
+  <CraftPsychic.description>Craft RimCard.</CraftPsychic.description>
+  <!-- EN: crafting RimCard -->
+  <CraftPsychic.jobString>crafting RimCard</CraftPsychic.jobString>
+  <!-- EN: Mechanoid - Craft Scyther RimCard (epic) -->
+  <CraftScyther.label>Mechanoid - Craft Scyther RimCard (epic)</CraftScyther.label>
+  <!-- EN: Craft RimCard. -->
+  <CraftScyther.description>Craft RimCard.</CraftScyther.description>
+  <!-- EN: crafting RimCard -->
+  <CraftScyther.jobString>crafting RimCard</CraftScyther.jobString>
+  <!-- EN: Mechanoid - Craft Bullet Shield RimCard (common) -->
+  <CraftShieldbullet.label>Mechanoid - Craft Bullet Shield RimCard (common)</CraftShieldbullet.label>
+  <!-- EN: Craft RimCard. -->
+  <CraftShieldbullet.description>Craft RimCard.</CraftShieldbullet.description>
+  <!-- EN: crafting RimCard -->
+  <CraftShieldbullet.jobString>crafting RimCard</CraftShieldbullet.jobString>
+  <!-- EN: Mechanoid - Craft Mortar Shield RimCard (common) -->
+  <CraftShieldmortar.label>Mechanoid - Craft Mortar Shield RimCard (common)</CraftShieldmortar.label>
+  <!-- EN: Craft RimCard. -->
+  <CraftShieldmortar.description>Craft RimCard.</CraftShieldmortar.description>
+  <!-- EN: crafting RimCard -->
+  <CraftShieldmortar.jobString>crafting RimCard</CraftShieldmortar.jobString>
+  <!-- EN: Mechanoid - Craft Mini Slugger Turret RimCard (common) -->
+  <CraftTurret.label>Mechanoid - Craft Mini Slugger Turret RimCard (common)</CraftTurret.label>
+  <!-- EN: Craft RimCard. -->
+  <CraftTurret.description>Craft RimCard.</CraftTurret.description>
+  <!-- EN: crafting RimCard -->
+  <CraftTurret.jobString>crafting RimCard</CraftTurret.jobString>
+  <!-- EN: Mechanoid - Disenchant Common RimCard -->
+  <DisenchantCommonMech.label>Mechanoid - Disenchant Common RimCard</DisenchantCommonMech.label>
+  <!-- EN: Disenchant a common RimCard from the Mechanoid Expansion. -->
+  <DisenchantCommonMech.description>Disenchant a common RimCard from the Mechanoid Expansion.</DisenchantCommonMech.description>
+  <!-- EN: Disenchant RimCard. -->
+  <DisenchantCommonMech.jobString>Disenchant RimCard.</DisenchantCommonMech.jobString>
+  <!-- EN: Mechanoid - Disenchant Common Shiny RimCard -->
+  <DisenchantCommonShinyMech.label>Mechanoid - Disenchant Common Shiny RimCard</DisenchantCommonShinyMech.label>
+  <!-- EN: Disenchant a common shiny RimCard from the Mechanoid Expansion. -->
+  <DisenchantCommonShinyMech.description>Disenchant a common shiny RimCard from the Mechanoid Expansion.</DisenchantCommonShinyMech.description>
+  <!-- EN: Disenchant RimCard. -->
+  <DisenchantCommonShinyMech.jobString>Disenchant RimCard.</DisenchantCommonShinyMech.jobString>
+  <!-- EN: Mechanoid - Disenchant Epic RimCard -->
+  <DisenchantEpicMech.label>Mechanoid - Disenchant Epic RimCard</DisenchantEpicMech.label>
+  <!-- EN: Disenchant an epic RimCard from the Mechanoid Expansion. -->
+  <DisenchantEpicMech.description>Disenchant an epic RimCard from the Mechanoid Expansion.</DisenchantEpicMech.description>
+  <!-- EN: Disenchant RimCard. -->
+  <DisenchantEpicMech.jobString>Disenchant RimCard.</DisenchantEpicMech.jobString>
+  <!-- EN: Mechanoid - Disenchant Epic Shiny RimCard -->
+  <DisenchantEpicShinyMech.label>Mechanoid - Disenchant Epic Shiny RimCard</DisenchantEpicShinyMech.label>
+  <!-- EN: Disenchant an epic shiny RimCard from the Mechanoid Expansion. -->
+  <DisenchantEpicShinyMech.description>Disenchant an epic shiny RimCard from the Mechanoid Expansion.</DisenchantEpicShinyMech.description>
+  <!-- EN: Disenchant RimCard. -->
+  <DisenchantEpicShinyMech.jobString>Disenchant RimCard.</DisenchantEpicShinyMech.jobString>
+  <!-- EN: Mechanoid - Disenchant Legendary RimCard -->
+  <DisenchantLegendaryMech.label>Mechanoid - Disenchant Legendary RimCard</DisenchantLegendaryMech.label>
+  <!-- EN: Disenchant a legendary RimCard from the Mechanoid Expansion. -->
+  <DisenchantLegendaryMech.description>Disenchant a legendary RimCard from the Mechanoid Expansion.</DisenchantLegendaryMech.description>
+  <!-- EN: Disenchant RimCard. -->
+  <DisenchantLegendaryMech.jobString>Disenchant RimCard.</DisenchantLegendaryMech.jobString>
+  <!-- EN: Mechanoid - Disenchant Shiny Legendary RimCard -->
+  <DisenchantLegendaryShinyMech.label>Mechanoid - Disenchant Shiny Legendary RimCard</DisenchantLegendaryShinyMech.label>
+  <!-- EN: Disenchant a legendary shiny RimCard from the Mechanoid Expansion. -->
+  <DisenchantLegendaryShinyMech.description>Disenchant a legendary shiny RimCard from the Mechanoid Expansion.</DisenchantLegendaryShinyMech.description>
+  <!-- EN: Disenchant RimCard. -->
+  <DisenchantLegendaryShinyMech.jobString>Disenchant RimCard.</DisenchantLegendaryShinyMech.jobString>
+  <!-- EN: Mechanoid - Disenchant Rare RimCard -->
+  <DisenchantRareMech.label>Mechanoid - Disenchant Rare RimCard</DisenchantRareMech.label>
+  <!-- EN: Disenchant a rare RimCard from the Mechanoid Expansion. -->
+  <DisenchantRareMech.description>Disenchant a rare RimCard from the Mechanoid Expansion.</DisenchantRareMech.description>
+  <!-- EN: Disenchant RimCard. -->
+  <DisenchantRareMech.jobString>Disenchant RimCard.</DisenchantRareMech.jobString>
+  <!-- EN: Mechanoid - Disenchant Rare Shiny RimCard -->
+  <DisenchantRareShinyMech.label>Mechanoid - Disenchant Rare Shiny RimCard</DisenchantRareShinyMech.label>
+  <!-- EN: Disenchant a rare shiny RimCard from the Mechanoid Expansion. -->
+  <DisenchantRareShinyMech.description>Disenchant a rare shiny RimCard from the Mechanoid Expansion.</DisenchantRareShinyMech.description>
+  <!-- EN: Disenchant RimCard. -->
+  <DisenchantRareShinyMech.jobString>Disenchant RimCard.</DisenchantRareShinyMech.jobString>
+</LanguageData>

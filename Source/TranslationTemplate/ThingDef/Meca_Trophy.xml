@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: RimCard Ultimate Shiny Deck - Mechanoid Edition -->
+  <MecShinyTrophy.label>RimCard Ultimate Shiny Deck - Mechanoid Edition</MecShinyTrophy.label>
+  <!-- EN: You effectively caught all the shiny bugs, very well done ! -->
+  <MecShinyTrophy.description>You effectively caught all the shiny bugs, very well done !</MecShinyTrophy.description>
+  <!-- EN: RimCard Ultimate Deck - Mechanoid Edition -->
+  <MecTrophy.label>RimCard Ultimate Deck - Mechanoid Edition</MecTrophy.label>
+  <!-- EN: You effectively caught all the nasty bugs, well done ! -->
+  <MecTrophy.description>You effectively caught all the nasty bugs, well done !</MecTrophy.description>
+</LanguageData>

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Mech Assembler - Rare -->
+  <trinkets_assemblerCard.label>Mech Assembler - Rare</trinkets_assemblerCard.label>
+  <!-- EN: ATK : 900 / DEF : 900\n    \nMechanoid Expansion RimCard #6 -->
+  <trinkets_assemblerCard.description>ATK : 900 / DEF : 900
+    
+Mechanoid Expansion RimCard #6</trinkets_assemblerCard.description>
+  <!-- EN: Mech Assembler - Rare SHINY -->
+  <trinkets_assemblershinyCard.label>Mech Assembler - Rare SHINY</trinkets_assemblershinyCard.label>
+  <!-- EN: ATK : 900 / DEF : 900\n    \nMechanoid Expansion RimCard #6 -->
+  <trinkets_assemblershinyCard.description>ATK : 900 / DEF : 900
+    
+Mechanoid Expansion RimCard #6</trinkets_assemblershinyCard.description>
+  <!-- EN: Barricade - Common -->
+  <trinkets_barricadeCard.label>Barricade - Common</trinkets_barricadeCard.label>
+  <!-- EN: ATK : 0 / DEF : 500\n    \nMechanoid Expansion RimCard #10 -->
+  <trinkets_barricadeCard.description>ATK : 0 / DEF : 500
+    
+Mechanoid Expansion RimCard #10</trinkets_barricadeCard.description>
+  <!-- EN: Barricade - Common SHINY -->
+  <trinkets_barricadeshinyCard.label>Barricade - Common SHINY</trinkets_barricadeshinyCard.label>
+  <!-- EN: ATK : 0 / DEF : 500\n    \nMechanoid Expansion RimCard #10 -->
+  <trinkets_barricadeshinyCard.description>ATK : 0 / DEF : 500
+    
+Mechanoid Expansion RimCard #10</trinkets_barricadeshinyCard.description>
+  <!-- EN: Auto Charge Blaster Turret - Epic -->
+  <trinkets_blasterCard.label>Auto Charge Blaster Turret - Epic</trinkets_blasterCard.label>
+  <!-- EN: ATK : 3300 / DEF : 2900\n    \nMechanoid Expansion RimCard #2 -->
+  <trinkets_blasterCard.description>ATK : 3300 / DEF : 2900
+    
+Mechanoid Expansion RimCard #2</trinkets_blasterCard.description>
+  <!-- EN: Auto Charge Blaster Turret - Epic SHINY -->
+  <trinkets_blastershinyCard.label>Auto Charge Blaster Turret - Epic SHINY</trinkets_blastershinyCard.label>
+  <!-- EN: ATK : 3300 / DEF : 2900\n    \nMechanoid Expansion RimCard #2 -->
+  <trinkets_blastershinyCard.description>ATK : 3300 / DEF : 2900
+    
+Mechanoid Expansion RimCard #2</trinkets_blastershinyCard.description>
+  <!-- EN: Centipede - Legendary -->
+  <trinkets_centipedeCard.label>Centipede - Legendary</trinkets_centipedeCard.label>
+  <!-- EN: ATK : 3400 / DEF : 3200\n\nMechanoid Expansion RimCard #1 -->
+  <trinkets_centipedeCard.description>ATK : 3400 / DEF : 3200
+
+Mechanoid Expansion RimCard #1</trinkets_centipedeCard.description>
+  <!-- EN: Centipede - Legendary SHINY -->
+  <trinkets_centipedeshinyCard.label>Centipede - Legendary SHINY</trinkets_centipedeshinyCard.label>
+  <!-- EN: ATK : 3400 / DEF : 2200\n    \nMechanoid Expansion RimCard #1 -->
+  <trinkets_centipedeshinyCard.description>ATK : 3400 / DEF : 2200
+    
+Mechanoid Expansion RimCard #1</trinkets_centipedeshinyCard.description>
+  <!-- EN: Countdown Activator - Common -->
+  <trinkets_countCard.label>Countdown Activator - Common</trinkets_countCard.label>
+  <!-- EN: ATK : 0 / DEF : 600\n    \nMechanoid Expansion RimCard #11 -->
+  <trinkets_countCard.description>ATK : 0 / DEF : 600
+    
+Mechanoid Expansion RimCard #11</trinkets_countCard.description>
+  <!-- EN: Countdown Activator - Common SHINY -->
+  <trinkets_countshinyCard.label>Countdown Activator - Common SHINY</trinkets_countshinyCard.label>
+  <!-- EN: ATK : 0 / DEF : 600\n    \nMechanoid Expansion RimCard #11 -->
+  <trinkets_countshinyCard.description>ATK : 0 / DEF : 600
+    
+Mechanoid Expansion RimCard #11</trinkets_countshinyCard.description>
+  <!-- EN: Mech Drop Beacon - Common -->
+  <trinkets_dropCard.label>Mech Drop Beacon - Common</trinkets_dropCard.label>
+  <!-- EN: ATK : 0 / DEF : 900\n    \nMechanoid Expansion RimCard #12 -->
+  <trinkets_dropCard.description>ATK : 0 / DEF : 900
+    
+Mechanoid Expansion RimCard #12</trinkets_dropCard.description>
+  <!-- EN: Mech Drop Beacon - Common SHINY -->
+  <trinkets_dropshinyCard.label>Mech Drop Beacon - Common SHINY</trinkets_dropshinyCard.label>
+  <!-- EN: ATK : 0 / DEF : 900\n    \nMechanoid Expansion RimCard #12 -->
+  <trinkets_dropshinyCard.description>ATK : 0 / DEF : 900
+    
+Mechanoid Expansion RimCard #12</trinkets_dropshinyCard.description>
+  <!-- EN: Auto Inferno Turret - Rare -->
+  <trinkets_infernoCard.label>Auto Inferno Turret - Rare</trinkets_infernoCard.label>
+  <!-- EN: ATK : 2200 / DEF : 400\n    \nMechanoid Expansion RimCard #8 -->
+  <trinkets_infernoCard.description>ATK : 2200 / DEF : 400
+    
+Mechanoid Expansion RimCard #8</trinkets_infernoCard.description>
+  <!-- EN: Auto Inferno Turret - Rare SHINY -->
+  <trinkets_infernoshinyCard.label>Auto Inferno Turret - Rare SHINY</trinkets_infernoshinyCard.label>
+  <!-- EN: ATK : 2200 / DEF : 400\n    \nMechanoid Expansion RimCard #8 -->
+  <trinkets_infernoshinyCard.description>ATK : 2200 / DEF : 400
+    
+Mechanoid Expansion RimCard #8</trinkets_infernoshinyCard.description>
+  <!-- EN: Lancer - Rare -->
+  <trinkets_lancerCard.label>Lancer - Rare</trinkets_lancerCard.label>
+  <!-- EN: ATK : 1600 / DEF : 1000\n    \nMechanoid Expansion RimCard #7 -->
+  <trinkets_lancerCard.description>ATK : 1600 / DEF : 1000
+    
+Mechanoid Expansion RimCard #7</trinkets_lancerCard.description>
+  <!-- EN: Lancer - Rare SHINY -->
+  <trinkets_lancershinyCard.label>Lancer - Rare SHINY</trinkets_lancershinyCard.label>
+  <!-- EN: ATK : 1600 / DEF : 1000\n    \nMechanoid Expansion RimCard #7 -->
+  <trinkets_lancershinyCard.description>ATK : 1600 / DEF : 1000
+    
+Mechanoid Expansion RimCard #7</trinkets_lancershinyCard.description>
+  <!-- EN: Weather Controller - Epic -->
+  <trinkets_meteoCard.label>Weather Controller - Epic</trinkets_meteoCard.label>
+  <!-- EN: ATK : 1700 / DEF : 200\n    \nMechanoid Expansion RimCard #4 -->
+  <trinkets_meteoCard.description>ATK : 1700 / DEF : 200
+    
+Mechanoid Expansion RimCard #4</trinkets_meteoCard.description>
+  <!-- EN: Weather Controller - Epic SHINY -->
+  <trinkets_meteoshinyCard.label>Weather Controller - Epic SHINY</trinkets_meteoshinyCard.label>
+  <!-- EN: ATK : 1700 / DEF : 200\n    \nMechanoid Expansion RimCard #4 -->
+  <trinkets_meteoshinyCard.description>ATK : 1700 / DEF : 200
+    
+Mechanoid Expansion RimCard #4</trinkets_meteoshinyCard.description>
+  <!-- EN: Ship Part - Common -->
+  <trinkets_partCard.label>Ship Part - Common</trinkets_partCard.label>
+  <!-- EN: ATK : 0 / DEF : 400\n    \nMechanoid Expansion RimCard #16 -->
+  <trinkets_partCard.description>ATK : 0 / DEF : 400
+    
+Mechanoid Expansion RimCard #16</trinkets_partCard.description>
+  <!-- EN: Ship Part - Common SHINY -->
+  <trinkets_partshinyCard.label>Ship Part - Common SHINY</trinkets_partshinyCard.label>
+  <!-- EN: ATK : 0 / DEF : 400\n    \nMechanoid Expansion RimCard #16 -->
+  <trinkets_partshinyCard.description>ATK : 0 / DEF : 400
+    
+Mechanoid Expansion RimCard #16</trinkets_partshinyCard.description>
+  <!-- EN: Pikeman - Rare -->
+  <trinkets_pikemanCard.label>Pikeman - Rare</trinkets_pikemanCard.label>
+  <!-- EN: ATK : 1500 / DEF : 1500\n    \nMechanoid Expansion RimCard #9 -->
+  <trinkets_pikemanCard.description>ATK : 1500 / DEF : 1500
+    
+Mechanoid Expansion RimCard #9</trinkets_pikemanCard.description>
+  <!-- EN: Pikeman - Rare SHINY -->
+  <trinkets_pikemanshinyCard.label>Pikeman - Rare SHINY</trinkets_pikemanshinyCard.label>
+  <!-- EN: ATK : 1500 / DEF : 1500\n    \nMechanoid Expansion RimCard #9 -->
+  <trinkets_pikemanshinyCard.description>ATK : 1500 / DEF : 1500
+    
+Mechanoid Expansion RimCard #9</trinkets_pikemanshinyCard.description>
+  <!-- EN: Proximity Activator - Common -->
+  <trinkets_proxCard.label>Proximity Activator - Common</trinkets_proxCard.label>
+  <!-- EN: ATK : 0 / DEF : 100\n    \nMechanoid Expansion RimCard #14 -->
+  <trinkets_proxCard.description>ATK : 0 / DEF : 100
+    
+Mechanoid Expansion RimCard #14</trinkets_proxCard.description>
+  <!-- EN: Proximity Activator - Common SHINY -->
+  <trinkets_proxshinyCard.label>Proximity Activator - Common SHINY</trinkets_proxshinyCard.label>
+  <!-- EN: ATK : 0 / DEF : 100\n    \nMechanoid Expansion RimCard #14 -->
+  <trinkets_proxshinyCard.description>ATK : 0 / DEF : 100
+    
+Mechanoid Expansion RimCard #14</trinkets_proxshinyCard.description>
+  <!-- EN: Psychic Ship - Rare -->
+  <trinkets_psychicCard.label>Psychic Ship - Rare</trinkets_psychicCard.label>
+  <!-- EN: ATK : 900 / DEF : 1200\n    \nMechanoid Expansion RimCard #5 -->
+  <trinkets_psychicCard.description>ATK : 900 / DEF : 1200
+    
+Mechanoid Expansion RimCard #5</trinkets_psychicCard.description>
+  <!-- EN: Psychic Ship - Rare SHINY -->
+  <trinkets_psychicshinyCard.label>Psychic Ship - Rare SHINY</trinkets_psychicshinyCard.label>
+  <!-- EN: ATK : 900 / DEF : 1200\n    \nMechanoid Expansion RimCard #5 -->
+  <trinkets_psychicshinyCard.description>ATK : 900 / DEF : 1200
+    
+Mechanoid Expansion RimCard #5</trinkets_psychicshinyCard.description>
+  <!-- EN: Scyther - Epic -->
+  <trinkets_scytherCard.label>Scyther - Epic</trinkets_scytherCard.label>
+  <!-- EN: ATK : 2300 / DEF : 1900\n    \nMechanoid Expansion RimCard #3 -->
+  <trinkets_scytherCard.description>ATK : 2300 / DEF : 1900
+    
+Mechanoid Expansion RimCard #3</trinkets_scytherCard.description>
+  <!-- EN: Scyther - Epic SHINY -->
+  <trinkets_scythershinyCard.label>Scyther - Epic SHINY</trinkets_scythershinyCard.label>
+  <!-- EN: ATK : 2300 / DEF : 1900\n    \nMechanoid Expansion RimCard #3 -->
+  <trinkets_scythershinyCard.description>ATK : 2300 / DEF : 1900
+    
+Mechanoid Expansion RimCard #3</trinkets_scythershinyCard.description>
+  <!-- EN: Bullet Shield - Common -->
+  <trinkets_shieldbulletCard.label>Bullet Shield - Common</trinkets_shieldbulletCard.label>
+  <!-- EN: ATK : 0 / DEF : 700\n    \nMechanoid Expansion RimCard #18 -->
+  <trinkets_shieldbulletCard.description>ATK : 0 / DEF : 700
+    
+Mechanoid Expansion RimCard #18</trinkets_shieldbulletCard.description>
+  <!-- EN: Bullet Shield - Common SHINY -->
+  <trinkets_shieldbulletshinyCard.label>Bullet Shield - Common SHINY</trinkets_shieldbulletshinyCard.label>
+  <!-- EN: ATK : 0 / DEF : 700\n    \nMechanoid Expansion RimCard #18 -->
+  <trinkets_shieldbulletshinyCard.description>ATK : 0 / DEF : 700
+    
+Mechanoid Expansion RimCard #18</trinkets_shieldbulletshinyCard.description>
+  <!-- EN: Mortar Shield - Common -->
+  <trinkets_shieldmortarCard.label>Mortar Shield - Common</trinkets_shieldmortarCard.label>
+  <!-- EN: ATK : 0 / DEF : 2500\n    \nMechanoid Expansion RimCard #15 -->
+  <trinkets_shieldmortarCard.description>ATK : 0 / DEF : 2500
+    
+Mechanoid Expansion RimCard #15</trinkets_shieldmortarCard.description>
+  <!-- EN: Mortar Shield - Common SHINY -->
+  <trinkets_shieldmortarshinyCard.label>Mortar Shield - Common SHINY</trinkets_shieldmortarshinyCard.label>
+  <!-- EN: ATK : 0 / DEF : 2500\n    \nMechanoid Expansion RimCard #15 -->
+  <trinkets_shieldmortarshinyCard.description>ATK : 0 / DEF : 2500
+    
+Mechanoid Expansion RimCard #15</trinkets_shieldmortarshinyCard.description>
+  <!-- EN: Smoke Spewer - Common -->
+  <trinkets_smokeCard.label>Smoke Spewer - Common</trinkets_smokeCard.label>
+  <!-- EN: ATK : 0 / DEF : 700\n    \nMechanoid Expansion RimCard #17 -->
+  <trinkets_smokeCard.description>ATK : 0 / DEF : 700
+    
+Mechanoid Expansion RimCard #17</trinkets_smokeCard.description>
+  <!-- EN: Smoke Spewer - Common SHINY -->
+  <trinkets_smokeshinyCard.label>Smoke Spewer - Common SHINY</trinkets_smokeshinyCard.label>
+  <!-- EN: ATK : 0 / DEF : 700\n    \nMechanoid Expansion RimCard #17 -->
+  <trinkets_smokeshinyCard.description>ATK : 0 / DEF : 700
+    
+Mechanoid Expansion RimCard #17</trinkets_smokeshinyCard.description>
+  <!-- EN: Mini Slugger Turret - Common -->
+  <trinkets_turretCard.label>Mini Slugger Turret - Common</trinkets_turretCard.label>
+  <!-- EN: ATK : 900 / DEF : 200\n    \nMechanoid Expansion RimCard #13 -->
+  <trinkets_turretCard.description>ATK : 900 / DEF : 200
+    
+Mechanoid Expansion RimCard #13</trinkets_turretCard.description>
+  <!-- EN: Mini Slugger Turret - Common SHINY -->
+  <trinkets_turretshinyCard.label>Mini Slugger Turret - Common SHINY</trinkets_turretshinyCard.label>
+  <!-- EN: ATK : 900 / DEF : 200\n    \nMechanoid Expansion RimCard #13 -->
+  <trinkets_turretshinyCard.description>ATK : 900 / DEF : 200
+    
+Mechanoid Expansion RimCard #13</trinkets_turretshinyCard.description>
+</LanguageData>

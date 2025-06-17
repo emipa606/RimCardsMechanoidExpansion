@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 580755923
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ddd0b9841be8c5f1a1c3baf99f97902c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ddd0b9841be8c5f1a1c3baf99f97902c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.RimCardsMechanoidExpansion/Textures/Trinkets_Images/ScythershinyCard.png
+- Assets/Data/Mlie.RimCardsMechanoidExpansion/Textures/Trinkets_Images/PsychicshinyCard.png
+- Assets/Data/Mlie.RimCardsMechanoidExpansion/Textures/Trinkets_Images/ProxCard.png
+- Assets/Data/Mlie.RimCardsMechanoidExpansion/Textures/Trinkets_Images/DropshinyCard.png
+- Assets/Data/Mlie.RimCardsMechanoidExpansion/Textures/Trinkets_Images/BlasterCard.png
+- Assets/Data/Mlie.RimCardsMechanoidExpansion/Textures/Trinkets_Images/MeteoCard.png
+- Assets/Data/Mlie.RimCardsMechanoidExpansion/Textures/Trinkets_Images/RimcardsShinyTrophyMec.png
+- Assets/Data/Mlie.RimCardsMechanoidExpansion/Textures/Trinkets_Images/BarricadeshinyCard.png
+- Assets/Data/Mlie.RimCardsMechanoidExpansion/Textures/Trinkets_Images/LancerCard.png
+- Assets/Data/Mlie.RimCardsMechanoidExpansion/Textures/Trinkets_Images/PikemanCard.png
+- Assets/Data/Mlie.RimCardsMechanoidExpansion/Textures/Trinkets_Images/SmokeCard.png
+- Assets/Data/Mlie.RimCardsMechanoidExpansion/Textures/Trinkets_Images/LancershinyCard.png
+- Assets/Data/Mlie.RimCardsMechanoidExpansion/Textures/Trinkets_Images/RimcardsTrophyMec.png
+- Assets/Data/Mlie.RimCardsMechanoidExpansion/Textures/Trinkets_Images/CentipedeCard.png
+- Assets/Data/Mlie.RimCardsMechanoidExpansion/Textures/Trinkets_Images/TurretshinyCard.png
+- Assets/Data/Mlie.RimCardsMechanoidExpansion/Textures/Trinkets_Images/InfernoshinyCard.png
+- Assets/Data/Mlie.RimCardsMechanoidExpansion/Textures/Trinkets_Images/ScytherCard.png
+- Assets/Data/Mlie.RimCardsMechanoidExpansion/Textures/Trinkets_Images/tiny.png
+- Assets/Data/Mlie.RimCardsMechanoidExpansion/Textures/Trinkets_Images/PartCard.png
+- Assets/Data/Mlie.RimCardsMechanoidExpansion/Textures/Trinkets_Images/BarricadeCard.png
+- Assets/Data/Mlie.RimCardsMechanoidExpansion/Textures/Trinkets_Images/DropCard.png
+- Assets/Data/Mlie.RimCardsMechanoidExpansion/Textures/Trinkets_Images/CountCard.png
+- Assets/Data/Mlie.RimCardsMechanoidExpansion/Textures/Trinkets_Images/ProxshinyCard.png
+- Assets/Data/Mlie.RimCardsMechanoidExpansion/Textures/Trinkets_Images/CentipedeshinyCard.png
+- Assets/Data/Mlie.RimCardsMechanoidExpansion/Textures/Trinkets_Images/PsychicCard.png
+- Assets/Data/Mlie.RimCardsMechanoidExpansion/Textures/Trinkets_Images/SmokeshinyCard.png
+- Assets/Data/Mlie.RimCardsMechanoidExpansion/Textures/Trinkets_Images/AssemblerCard.png
+- Assets/Data/Mlie.RimCardsMechanoidExpansion/Textures/Trinkets_Images/BlastershinyCard.png
+- Assets/Data/Mlie.RimCardsMechanoidExpansion/Textures/Trinkets_Images/ShieldbulletCard.png
+- Assets/Data/Mlie.RimCardsMechanoidExpansion/Textures/Trinkets_Images/PikemanshinyCard.png
+- Assets/Data/Mlie.RimCardsMechanoidExpansion/Textures/Trinkets_Images/ShieldmortarshinyCard.png
+- Assets/Data/Mlie.RimCardsMechanoidExpansion/Textures/Trinkets_Images/ShieldbulletshinyCard.png
+- Assets/Data/Mlie.RimCardsMechanoidExpansion/Textures/Trinkets_Images/CountshinyCard.png
+- Assets/Data/Mlie.RimCardsMechanoidExpansion/Textures/Trinkets_Images/MeteoshinyCard.png
+- Assets/Data/Mlie.RimCardsMechanoidExpansion/Textures/Trinkets_Images/AssemblershinyCard.png
+- Assets/Data/Mlie.RimCardsMechanoidExpansion/Textures/Trinkets_Images/PartshinyCard.png
+- Assets/Data/Mlie.RimCardsMechanoidExpansion/Textures/Trinkets_Images/TurretCard.png
+- Assets/Data/Mlie.RimCardsMechanoidExpansion/Textures/Trinkets_Images/ShieldmortarCard.png
+- Assets/Data/Mlie.RimCardsMechanoidExpansion/Textures/Trinkets_Images/InfernoCard.png
+Dependencies: []

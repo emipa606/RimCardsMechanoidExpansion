@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: craft RimCard -->
+  <CraftCard.label>craft RimCard</CraftCard.label>
+  <!-- EN: Crafting -->
+  <CraftCard.gerund>Crafting</CraftCard.gerund>
+  <!-- EN: Craft -->
+  <CraftCard.verb>Craft</CraftCard.verb>
+  <!-- EN: disenchant RimCard -->
+  <DisenchantCard.label>disenchant RimCard</DisenchantCard.label>
+  <!-- EN: Crafting -->
+  <DisenchantCard.gerund>Crafting</DisenchantCard.gerund>
+  <!-- EN: Craft -->
+  <DisenchantCard.verb>Craft</DisenchantCard.verb>
+</LanguageData>
